@@ -1,7 +1,7 @@
 # MALEEK'S-data-analysis-baby-step
 first project in the data analysis 30 days of learning hosted by the Oyinbooke 
 
-#PROJECT OBJECTIVE
+## PROJECT OBJECTIVE
 1. Understand and practice the data analysis project steps as explained in the course
 2. Practice using the analyze button in excel as demonstrated by the course instructor
 3. Practicing the 14 excel pivot table tips and tricks explained by kevin stratvert in a tutorial linked in the course 
